@@ -13,7 +13,7 @@ How do I use the code? Lets take a look at what you need to do:
 4. Open an interface where you can write python code. Such as python 3.7 or idle python. (https://www.python.org/downloads/)
 5. Copy paste the code that I shared.
 6. Change the TOKEN to your bots Token (At the end of the code you will see "TYPE YOUR TOKEN HERE"
-7. install the packages that are at the top of the code the ones that start with import
+7. install the packages that are at the top of the code the ones that start with import.
 7. Check here to learn how to install https://docs.netapp.com/oci-73/index.jsp?topic=%2Fcom.netapp.doc.oci-ht-all%2FGUID-B91E7C76-5651-4216-A4FD-000A7BBAA98E.html 
 8. Run the code.
 9.
