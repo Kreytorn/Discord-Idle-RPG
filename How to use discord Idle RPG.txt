@@ -1,5 +1,6 @@
 This is a code that helps you make infinitife money on idle discord rpg.
 
+
 https://invite.idlerpg.xyz this link is the idle rpg bot.
 
 What does the code do?
@@ -7,13 +8,15 @@ The code that I have written makes infinitife money for you.
 How do I use the code? Lets take a look at what you need to do:
 
 1. Create a server in Discord and add IDLE RPG bot to your server. (https://invite.idlerpg.xyz/) Use the link to add the bot.
-1. Create a discord bot. If you don't know how to create one, check first 2 minutes of this video: https://www.youtube.com/watch?v=Gqurhm2QxA0 
-2. Get the Token of the bot you created.
-3. Open an interface where you can write python code. Such as python 3.7 or idle python. (https://www.python.org/downloads/)
-4. Copy paste the code that I shared.
-5. Change the TOKEN to your bots Token (At the end of the code you will see "TYPE YOUR TOKEN HERE"
-6. Run the code.
-7.
+2. Create a discord bot. If you don't know how to create one, check first 2 minutes of this video: https://www.youtube.com/watch?v=Gqurhm2QxA0 
+3. Get the Token of the bot you created.
+4. Open an interface where you can write python code. Such as python 3.7 or idle python. (https://www.python.org/downloads/)
+5. Copy paste the code that I shared.
+6. Change the TOKEN to your bots Token (At the end of the code you will see "TYPE YOUR TOKEN HERE"
+7. install the packages that are at the top of the code the ones that start with import
+7. Check here to learn how to install https://docs.netapp.com/oci-73/index.jsp?topic=%2Fcom.netapp.doc.oci-ht-all%2FGUID-B91E7C76-5651-4216-A4FD-000A7BBAA98E.html 
+8. Run the code.
+9.
 The money x:
 Money x is the amount you want to play with.
 I would recommend you to divide your money with 35000 and play with that
@@ -30,9 +33,9 @@ you won
 flip(10)
 . . .
 
-8. After you choose the money x wait till the code prints  " we have logged into (yourbot)"
-9. Then open the server that you host and type flip(10) and it will work.
-10. When you want bot to stop just stop the code. If you want to restart just follow steps 6-7-8-9.
+10. After you choose the money x wait till the code prints  " we have logged into (yourbot)"
+11. Then open the server that you host and type flip(10) and it will work.
+12. When you want bot to stop just stop the code. If you want to restart just follow steps 6-7-8-9.
 
 Enjoy!
 
