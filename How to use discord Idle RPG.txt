@@ -1,0 +1,39 @@
+This is a code that helps you make infinitife money on idle discord rpg.
+
+https://invite.idlerpg.xyz this link is the idle rpg bot.
+
+What does the code do?
+The code that I have written makes infinitife money for you.
+How do I use the code? Lets take a look at what you need to do:
+
+1. Create a server in Discord and add IDLE RPG bot to your server. (https://invite.idlerpg.xyz/) Use the link to add the bot.
+1. Create a discord bot. If you don't know how to create one, check first 2 minutes of this video: https://www.youtube.com/watch?v=Gqurhm2QxA0 
+2. Get the Token of the bot you created.
+3. Open an interface where you can write python code. Such as python 3.7 or idle python. (https://www.python.org/downloads/)
+4. Copy paste the code that I shared.
+5. Change the TOKEN to your bots Token (At the end of the code you will see "TYPE YOUR TOKEN HERE"
+6. Run the code.
+7.
+The money x:
+Money x is the amount you want to play with.
+I would recommend you to divide your money with 35000 and play with that
+Example:
+the money x = 10
+
+flip(10)
+you lost
+flip(20)
+you lost
+flip(40)
+you won
+(than back to 10)
+flip(10)
+. . .
+
+8. After you choose the money x wait till the code prints  " we have logged into (yourbot)"
+9. Then open the server that you host and type flip(10) and it will work.
+10. When you want bot to stop just stop the code. If you want to restart just follow steps 6-7-8-9.
+
+Enjoy!
+
+If you have any questions contact me on discord Kreyto#3024
