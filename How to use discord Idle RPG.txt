@@ -8,7 +8,7 @@ The code that I have written makes infinitife money for you.
 How do I use the code? Lets take a look at what you need to do:
 
 1. Create a server in Discord and add IDLE RPG bot to your server. (https://invite.idlerpg.xyz/) Use the link to add the bot.
-2. Create a discord bot. If you don't know how to create one, check first 2 minutes of this video: https://www.youtube.com/watch?v=Gqurhm2QxA0 
+2. Create a discord bot and add it to the server. If you don't know how to create one, check first 2 minutes of this video: https://www.youtube.com/watch?v=Gqurhm2QxA0 
 3. Get the Token of the bot you created.
 4. Open an interface where you can write python code. Such as python 3.7 or idle python. (https://www.python.org/downloads/)
 5. Copy paste the code that I shared.
