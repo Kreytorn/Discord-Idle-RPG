@@ -92,20 +92,6 @@ async def on_message(message):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 TOKEN = "TYPE YOUR TOKEN HERE"
 
 
