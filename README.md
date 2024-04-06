@@ -6,7 +6,7 @@ This script helps you generate infinite money in an idle Discord RPG using a bot
 ## Discord Idle RPG
 Idle RPG bot
 
-## How to Use
+## How to Use?
 ### Prerequisites
 Create a server in Discord and add the Idle RPG bot to your server. Use this link to add the bot.
 Create a Discord bot and add it to the server. If you're unsure how to create one, watch the first 2 minutes of this video.
