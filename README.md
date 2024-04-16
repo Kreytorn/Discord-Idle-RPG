@@ -7,7 +7,7 @@ This script helps you generate infinite money in an idle Discord RPG using a bot
 ![Static Badge](https://img.shields.io/badge/IDE-Jupyter-blue)
 ![Static Badge](https://img.shields.io/badge/requirements-pynput/time/discord-red)
 ![Static Badge](https://img.shields.io/badge/Version-2.0-green)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=macys.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKreytorn%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=macys.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ## Discord Idle RPG
